@@ -18,6 +18,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSLog(@"master");
     NSLog(@"0325");
+    NSLog(@"0912");
+
     
     NSLog(@"first");
     NSLog(@"second");
